@@ -1,0 +1,923 @@
+/* ............//// Header Start ////......... */
+@media (max-width: 1163px){
+	header .nav ul li{
+		padding: 17px 0px 0px 17px;
+	}
+}
+@media (max-width: 1015px){
+	header .logo{
+		margin-left: 5%;
+	}
+	header .nav{
+		margin-right: 5%;
+	}
+}
+@media (max-width: 904px){
+	header .logo{
+		margin-left: 2%;
+	}
+	header .nav{
+		margin-right: 2%;
+	}
+}
+@media (max-width:825px){
+	header .logo{
+	margin-left: 10%;
+	}
+	header .nav{
+	margin-right: 10%;
+	}
+	.nav span{
+		display: none;
+	}
+}
+@media (max-width:600px){
+	header .logo{
+	margin-left: 5%;
+	}
+	header .nav{
+	margin-right: 5%;
+	}
+}
+/* ............//// Header END ////......... */
+
+/* ............//// sections [1300px] start ////......... */
+@media (max-width:1300px){
+	.section-4 .review-1{
+		width: 40%;
+		height: 180px;
+	}
+	.section-4 .review-2{
+		width: 40%;
+		height: 180px;
+	}
+}
+/* ............//// sections [1300px] end ////......... */
+
+/* ............//// sections [1100px] start ////......... */
+@media (max-width:1100px){
+	.section-4 .review-1{
+		width: 40%;
+		height: 200px;
+	}
+	.section-4 .review-2{
+		width: 40%;
+		height: 200px;
+	}footer .foot .foot1 input{
+		padding: 10px 50px 10px 10px;
+	}
+}
+/* ............//// sections [1100px] end ////......... */
+
+/* ............//// sections [1030px] start ////......... */
+@media (max-width:1030px){
+	footer .foot .foot1 input{
+	padding: 10px 35px 10px 10px;
+	}
+}
+/* ............//// sections [1030px] end ////......... */
+
+/* ............//// sections [1005px] start ////......... */
+@media (max-width:1005px){
+	footer .foot .foot1 input{
+	padding: 10px 10px 10px 10px;
+	}
+}
+/* ............//// sections [1005px] end ////......... */
+
+/* ............//// sections [975px] start ////......... */
+@media (max-width:975px){
+	.section-1{
+		width: 85%;
+		height: auto;
+		display: block;
+		margin-top: 120px;
+		margin-left: 8%;
+	}
+	.section-1 .half-1{
+		width: 85%;
+		height: auto;
+		padding: 0;
+	}
+	.section-1 .half-2{
+		width: 85%;
+		margin-left: 8.5%;
+		padding: 0;
+	}
+	.section-1 .half-2 img{
+		width: 600px;
+		height: auto;
+	}
+	.section-2{
+		width: 85%;
+		height: auto;
+		display: block;
+		margin-top: 120px;
+		margin-left: 9%;
+	}
+	.section-2 .half-2{
+		width: 85%;
+		height: auto;
+		margin-left: 10%;
+		padding: 0;
+	}
+	.section-2 .half-1{
+		width: 85%;
+		margin-left: 9%;
+		padding: 0;
+	}
+	.section-2 .half-1 img{
+		width: 600px;
+		height: auto;
+	}
+	.section-3{
+		width: 85%;
+		height: auto;
+		margin-left: 8%;
+	}
+	.section-3 .services .ser-1{
+		width: 85%;
+		height: auto;
+	}
+	.section-3 .services .ser-2{
+		width: 85%;
+		height: auto;
+		margin-left: 10%;
+	}
+	.section-3 .services .ser-3{
+		width: 85%;
+		height: auto;
+	}
+	.section-3 .services .ser-4{
+		width: 85%;
+		height: auto;
+		margin-left: 10%;
+	}
+	.section-3 .services .half-1{
+		display: block;
+	}
+	.section-3 .services .half-2{
+		display: block;
+	}
+	.section-4{
+		width: 85%;
+		height: auto;
+		margin-top: -190px;
+		margin-left: 7%;
+	}
+	.section-4 .reviews{
+		display: block;
+		margin-top: -50px;
+	}
+	.section-4 .review-1{
+		width: 80%;
+		height: auto;
+		margin-left: 10%;
+	}
+	.section-4 .review-2{
+		width: 80%;
+		height: auto;
+		margin-top: 5%;
+		margin-left: 10%;
+	}
+	footer{
+		margin-top: 100px;
+	}
+	footer .foot{
+		width: 85%;
+	}
+}
+/* ............//// sections [975px] end ////......... */
+
+/* ............//// sections [825px] start ////......... */
+@media (max-width:825px){
+	.section-1{
+		margin-left: 6%;
+	}
+	.section-1 .half-2 img{
+		width: 400px;
+		height: auto;
+		margin-left: 12%;
+	}
+	.section-2{
+		margin-left: 7%;
+	}
+	.section-2 .half-1 img{
+		width: 400px;
+		height: auto;
+		margin-left: 12%;
+	}
+	.section-2 .half-1{
+		margin-left: 7%;
+	}
+	footer{
+		width: 100% !important;
+		height: auto;
+		background-color: black;
+	}
+	footer .foot{
+		width: 85%;
+		height: auto;
+		display: block;
+		padding-bottom: 30px;
+	}
+	footer .foot1{
+		margin-left: 20%;
+		margin-top: 30px;
+	}
+	footer .foot .foot1 input{
+	padding: 10px 100px 10px 10px;
+	}
+}
+/* ............//// sections [825px] end ////......... */
+
+/* ............//// sections [740px] start ////......... */
+@media (max-width:740px){
+	.section-1 .half-1 h1{
+		font-size: 40px;
+	}
+	.section-1 .half-1 p{
+		font-size: 16px;
+	}
+	.section-2 .half-2 h1{
+	font-size: 40px;
+	}
+	.section-2 .half-2 p{
+		font-size: 16px;
+	}
+	.section-3 .title h1{
+		font-size: 40px;
+	}
+	.section-3 .title p{
+		font-size: 16px;
+	}
+	.section-4 .title h1{
+		font-size: 40px;
+	}
+	.section-4 .title p{
+		font-size: 16px;
+	}
+	.section-1 .half-2{
+		margin-left: 4%;
+	}
+	.section-2 .half-1{
+		margin-left: 4%;
+	}
+	.section-3{
+		margin-top: -30px;
+	}
+	.section-4{
+		margin-top: -150px;
+	}
+}
+/* ............//// sections [740px] end ////......... */
+
+/* ............//// sections [585px] start ////......... */
+@media (max-width:585px){
+	.section-4{
+		margin-top: -80px;
+	}
+	.section-1 .half-2 img{
+		width: 300px;
+		height: auto;
+		margin-left: 20%;
+	}
+	.section-2 .half-1 img{
+		width: 300px;
+		height: auto;
+		margin-left: 20%;
+	}
+}
+/* ............//// sections [585px] end ////......... */
+
+/* ............//// sections [535px] start ////......... */
+@media (max-width:585px){
+	footer .foot1{
+		margin-left: 2%;
+	}
+}
+/* ............//// sections [535px] end ////......... */
+
+/* ............//// sections [510px] start ////......... */
+@media (max-width:510px){
+	header{
+		width: 100%;
+		height: 70px;
+	}
+	header .logo a{
+		font-size: 25px;
+	}
+	header .logo a span{
+		font-size: 15px;
+	}
+	.nav input{
+		padding: 8px 14px;
+		border: 2px solid #FF6600;
+		font-size: 12px;
+		margin-top: -20px;
+	}
+	.section-4{
+		margin-top: -60px;
+	}
+	.section-1 .half-2 img{
+		width: 300px;
+		height: auto;
+		margin-left: 12%;
+	}
+	.section-2 .half-1 img{
+		width: 300px;
+		height: auto;
+		margin-left: 12%;
+	}
+}
+/* ............//// sections [510px] end ////......... */
+
+/* ............//// sections [450px] start ////......... */
+@media (max-width:450px){
+	.section-4{
+		margin-top: -20px;
+	}
+	.section-1{
+		margin-left: 1%;
+	}
+	.section-1 .half-2 img{
+		width: 250px;
+		height: auto;
+		margin-left: 15%;
+	}
+	.section-2 .half-1 img{
+		width: 250px;
+		height: auto;
+		margin-left: 15%;
+	}
+	footer .foot .foot1 input{
+		padding: 10px 60px 10px 10px;
+	}
+	footer .foot .foot1 p{
+		width: 280px;
+	}
+}
+/* ............//// sections [450px] end ////......... */
+
+/* ............//// sections [400px] start ////......... */
+@media (max-width:400px){
+	header .logo{
+		margin-left: 2%;
+	}
+	header .nav{
+		margin-right: 2%;
+	}
+}
+/* ............//// sections [400px] end ////......... */
+
+/* ............//// sections [380px] start ////......... */
+@media (max-width:380px){
+	header .logo{
+		margin-left: 2%;
+	}
+	header .nav{
+		margin-right: 2%;
+	}
+}
+/* ............//// sections [380px] end ////......... */
+
+/* ............//// sections [375px] start ////......... */
+@media (max-width:375px){
+	footer .foot .foot1 input{
+		padding: 10px 10px 10px 10px;
+	}
+}
+/* ............//// sections [375px] end ////......... */
+
+
+
+
+
+
+
+
+
+
+
+
+/* ............//// Section-1 Start ////......... */
+/*@media (max-width:830px){
+	.section-1{
+		width: 85%;
+		height: auto;
+		display: block;
+		margin-top: 120px;
+	}
+	.section-1 .half-1{
+		width: 100%;
+		height: auto;
+		margin-left: 10%;
+		padding: 0;
+	}
+	.section-1 .half-2{
+		width: 100%;
+		margin-left: 17%;
+		padding: 0;
+	}
+	.section-1 .half-2 img{
+		width: 600px;
+		height: auto;
+	}
+}
+@media (max-width:630px){
+	.section-1 .half-1{
+		margin-left: 20%;
+	}
+	.section-1 .half-2{
+		height: auto;
+		margin-left: 25%;
+		padding: 0;
+	}
+	.section-1 .half-2 img{
+		width: 550px;
+		height: auto;
+	}
+}
+@media (max-width:565px){
+	.section-1 .half-1{
+		margin-left: 30%;
+	}
+	.section-1 .half-2{
+		height: auto;
+		margin-left: 35%;
+		padding: 0;
+	}
+	.section-1 .half-2 img{
+		width: 470px;
+		height: auto;
+	}
+}
+@media (max-width:495px){
+	.section-1 .half-1{
+		margin-left: 40%;
+	}
+	.section-1 .half-2{
+		height: auto;
+		margin-left: 45%;
+		padding: 0;
+	}
+	.section-1 .half-2 img{
+		width: 400px;
+		height: auto;
+	}
+}
+@media (max-width:430px){
+	.section-1 .half-1{
+		margin-left: 50%;
+	}
+	.section-1 .half-2{
+		height: auto;
+		margin-left: 50%;
+		padding: 0;
+	}
+	.section-1 .half-2 img{
+		width: 400px;
+		height: auto;
+	}
+}
+
+/* ............//// Section-1 END ////......... */
+
+/* ............//// Section-2 Start ////......... */
+/*@media (max-width:830px){
+	.section-2{
+		width: 100%;
+		height: auto;
+		display: block;
+		margin-top: 120px;
+	}
+	.section-2 .half-2{
+		width: 100%;
+		height: auto;
+		margin-left: 10%;
+		padding: 0;
+	}
+	.section-2 .half-1{
+		width: 100%;
+		margin-left: 17%;
+		padding: 0;
+	}
+	.section-2 .half-1 img{
+		width: 600px;
+		height: auto;
+	}
+}
+@media (max-width:630px){
+	.section-2 .half-2{
+		margin-left: 20%;
+	}
+	.section-2 .half-1{
+		height: auto;
+		margin-left: 25%;
+		padding: 0;
+	}
+	.section-2 .half-1 img{
+		width: 550px;
+		height: auto;
+	}
+}
+@media (max-width:565px){
+	.section-2 .half-2{
+		margin-left: 30%;
+	}
+	.section-2 .half-1{
+		height: auto;
+		margin-left: 35%;
+		padding: 0;
+	}
+	.section-2 .half-1 img{
+		width: 470px;
+		height: auto;
+	}
+}
+@media (max-width:495px){
+	.section-2 .half-2{
+		margin-left: 40%;
+	}
+	.section-2 .half-1{
+		height: auto;
+		margin-left: 45%;
+		padding: 0;
+	}
+	.section-2 .half-1 img{
+		width: 400px;
+		height: auto;
+	}
+}
+@media (max-width:430px){
+	.section-2 .half-2{
+		margin-left: 50%;
+	}
+	.section-2 .half-1{
+		height: auto;
+		margin-left: 50%;
+		padding: 0;
+	}
+	.section-2 .half-1 img{
+		width: 400px;
+		height: auto;
+	}
+}
+/* ............//// Section-2 END ////......... */
+
+/* ............//// Section-3 Start ////......... */
+/*@media (max-width:830px){
+	.section-3 .title{
+		width: 70%;
+		height: auto;
+		margin-left: 18%;
+	}
+	.section-3 .services .ser-1{
+		width: 80%;
+		height: auto;
+	}
+	.section-3 .services .ser-2{
+		width: 80%;
+		height: auto;
+		margin-left: 10%;
+	}
+	.section-3 .services .ser-3{
+		width: 80%;
+		height: auto;
+	}
+	.section-3 .services .ser-4{
+		width: 80%;
+		height: auto;
+		margin-left: 10%;
+	}
+	.section-3 .services .half-1{
+		display: block;
+	}
+	.section-3 .services .half-2{
+		display: block;
+	}
+}
+@media (max-width:685px){
+	.section-3 .title{
+		margin-left: 10%;
+		width: 100%;
+	}
+	.section-3 .services{
+		margin-left: 5%;
+	}
+}
+@media (max-width:630px){
+	.section-3 .title{
+		margin-left: 13%;
+	}
+	.section-3 .services{
+		margin-left: 7%;
+	}
+}
+@media (max-width:580px){
+	.section-3 .title{
+		margin-left: 25%;
+	}
+	.section-3 .title h1{
+		width: 85%;
+	}
+	.section-3 .title p{
+		width: 85%;
+	}
+	.section-3 .services{
+		margin-left: 15%;
+	}
+}
+/*@media (max-width:545px){
+	.section-3 .title{
+		margin-left: 32%;
+	}
+	.section-3 .services{
+		margin-left: 20%;
+	}
+}
+@media (max-width:515px){
+	.section-3 .title{
+		margin-left: 40%;
+	}
+	.section-3 .services{
+		margin-left: 25%;
+	}
+}
+@media (max-width:450px){
+	.section-3 .title{
+		margin-left: 48%;
+	}
+	.section-3 .services{
+		margin-left: 35%;
+	}
+}
+@media (max-width:400px){
+	.section-3 .title{
+		margin-left: 52%;
+	}
+	.section-3 .services{
+		margin-left: 45%;
+	}
+}
+/* ............//// Section-3 END ////......... */
+
+/* ............//// Section-4 Start ////......... */
+/*@media (max-width:870px){
+	.section-4 .title{
+		margin-left: 5%;
+	}
+	.section-4 .reviews{
+		display: block;
+	}
+	.section-4 .review-1{
+		width: 80%;
+		height: auto;
+		margin-left: 10%;
+	}
+	.section-4 .review-2{
+		width: 80%;
+		height: auto;
+		margin-top: 5%;
+		margin-left: 10%;
+	}
+
+}
+@media (max-width:830px){
+	.section-4 .title{
+		margin-left: 8%;
+	}
+	.section-4 .review-1{
+		width: 80%;
+		height: auto;
+		margin-left: 17%;
+	}
+	.section-4 .review-2{
+		width: 80%;
+		height: auto;
+		margin-top: 5%;
+		margin-left: 17%;
+	}
+}
+@media (max-width:720px){
+	.section-4 .title{
+		margin-left: 10%;
+	}
+	.section-4 .review-1{
+		width: 80%;
+		height: auto;
+		margin-left: 21%;
+	}
+	.section-4 .review-2{
+		width: 80%;
+		height: auto;
+		margin-top: 5%;
+		margin-left: 21%;
+	}
+}
+@media (max-width:650px){
+	.section-4 .title{
+		margin-left: 15%;
+	}
+	.section-4 .review-1{
+		width: 80%;
+		height: auto;
+		margin-left: 25%;
+	}
+	.section-4 .review-2{
+		width: 80%;
+		height: auto;
+		margin-top: 5%;
+		margin-left: 25%;
+	}
+}
+@media (max-width:580px){
+	.section-4 .title{
+		margin-left: 18%;
+	}
+	.section-4 .review-1{
+		width: 80%;
+		height: auto;
+		margin-left: 28%;
+	}
+	.section-4 .review-2{
+		width: 80%;
+		height: auto;
+		margin-top: 5%;
+		margin-left: 28%;
+	}
+}
+@media (max-width:530px){
+	.section-4 .title{
+		margin-left: 22%;
+	}
+	.section-4 .review-1{
+		width: 80%;
+		height: auto;
+		margin-left: 32%;
+	}
+	.section-4 .review-2{
+		width: 80%;
+		height: auto;
+		margin-top: 5%;
+		margin-left: 32%;
+	}
+}
+@media (max-width:515px){
+	.section-4 .title{
+		margin-left: 25%;
+	}
+	.section-4 .review-1{
+		width: 80%;
+		height: auto;
+		margin-left: 35%;
+	}
+	.section-4 .review-2{
+		width: 80%;
+		height: auto;
+		margin-top: 5%;
+		margin-left: 35%;
+	}
+}
+@media (max-width:495px){
+	.section-4 .title{
+		margin-left: 28%;
+	}
+	.section-4 .review-1{
+		width: 80%;
+		height: auto;
+		margin-left: 38%;
+	}
+	.section-4 .review-2{
+		width: 80%;
+		height: auto;
+		margin-top: 5%;
+		margin-left: 38%;
+	}
+}
+@media (max-width:465px){
+	.section-4 .title{
+		margin-left: 32%;
+	}
+	.section-4 .review-1{
+		width: 80%;
+		height: auto;
+		margin-left: 42%;
+	}
+	.section-4 .review-2{
+		width: 80%;
+		height: auto;
+		margin-top: 5%;
+		margin-left: 42%;
+	}
+}
+@media (max-width:430px){
+	.section-4 .title{
+		margin-left: 38%;
+	}
+	.section-4 .review-1{
+		width: 80%;
+		height: auto;
+		margin-left: 48%;
+	}
+	.section-4 .review-2{
+		width: 80%;
+		height: auto;
+		margin-top: 5%;
+		margin-left: 48%;
+	}
+}
+@media (max-width:420px){
+	.section-4 .title{
+		margin-left: 42%;
+	}
+	.section-4 .review-1{
+		width: 80%;
+		height: auto;
+		margin-left: 52%;
+	}
+	.section-4 .review-2{
+		width: 80%;
+		height: auto;
+		margin-top: 5%;
+		margin-left: 52%;
+	}
+}
+@media (max-width:400px){
+	.section-4 .title{
+		margin-left: 48%;
+	}
+	.section-4 .review-1{
+		width: 80%;
+		height: auto;
+		margin-left: 58%;
+	}
+	.section-4 .review-2{
+		width: 80%;
+		height: auto;
+		margin-top: 5%;
+		margin-left: 58%;
+	}
+}
+@media (max-width:380px){
+	.section-4 .title{
+		margin-left: 53%;
+	}
+	.section-4 .review-1{
+		width: 80%;
+		height: auto;
+		margin-left: 63%;
+	}
+	.section-4 .review-2{
+		width: 80%;
+		height: auto;
+		margin-top: 5%;
+		margin-left: 63%;
+	}
+}
+@media (max-width:365px){
+	.section-4{
+		margin-top: 2px;
+	}
+}
+/* ............//// Section-4 END ////......... */
+
+/* ............//// Footer Start ////......... */
+/*@media (max-width:880px){
+	footer{
+		width: 100% !important;
+		height: auto;
+		background-color: black;
+	}
+	footer .foot{
+		width: 100%;
+		height: auto;
+		display: block;
+		padding-bottom: 30px;
+	}
+	footer .foot1{
+		margin-left: 30%;
+	}
+}
+
+
+@media (max-width:580px){
+	.section-1{
+		margin-left: -10%;
+	}
+}
+@media (max-width:580px){
+	.section-2{
+		margin-left: -10%;
+	}
+}
+@media (max-width:580px){
+	.section-3{
+		margin-left: -25%;
+	}
+}
+@media (max-width:580px){
+	.section-4{
+		margin-left: -10%;
+	}
+}*/
